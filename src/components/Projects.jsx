@@ -24,7 +24,7 @@ const Projects = () => {
           link="https://movie-app-vffd.vercel.app/"
         />
         <ProjectCard
-          src="/portfolio.png"
+          src="/Portfolio.png"
           title="PortFolio Website"
           description="PortFolio WebSite."
           link="#"
