@@ -20,7 +20,7 @@ const Projects = () => {
         <ProjectCard
           src="/Project2.png"
           title="FILM DB"
-          description="Site internet afin de trouver tout les films que l'on souhiate!"
+          description="Site internet afin de trouver tout les films que l'on souhaite!"
           link="https://movie-app-vffd.vercel.app/"
         />
         <ProjectCard
