@@ -44,7 +44,6 @@ const HeroContent = () => {
           suis actuellement plongé dans l&apos;apprentissage du développement
           web. Je t&apos;invite à découvrir mes projets ! N&apos;hésite pas à
           les explorer et à me faire part de tes retours. <br />
-          Bien à toi, <br />
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
