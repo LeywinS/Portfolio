@@ -40,12 +40,11 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          Enchanté ! Je m&apos;appelle Backary Soumare, j&apos;ai 21 ans et je
+          Enchanté ! Je m&apos;appelle Backary Soumare, j&apos;ai 22 ans et je
           suis actuellement plongé dans l&apos;apprentissage du développement
           web. Je t&apos;invite à découvrir mes projets ! N&apos;hésite pas à
           les explorer et à me faire part de tes retours. <br />
           Bien à toi, <br />
-          Backary Soumare
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
